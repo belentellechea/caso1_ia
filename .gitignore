@@ -1,4 +1,10 @@
 
 .ames-housing-desarrollo-estudiantes
 
+.ames-housing-desarrollo-estudiantes/README.md
+.ames-housing-desarrollo-estudiantes/SHA256SUMS_DESARROLLO.txt
+.ames-housing-desarrollo-estudiantes/data_description.txt
+.ames-housing-desarrollo-estudiantes/train.csv
+.ames-housing-desarrollo-estudiantes/validation.csv
+
 .venv
