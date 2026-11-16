@@ -1,5 +1,6 @@
 # caso1_ia
 Inteligencia Artificial I — Machine Learning clásico
+
 Equipo: Julián Bevc, Lucía Olivera, Belén Tellechea
 
 
@@ -23,11 +24,11 @@ informe el equipo debe poder responder, con evidencia propia y en lenguaje claro
 
 ## Cómo ejecutar
 
-1. Preparar un entorno con Python 3.10 o superior y scikit-learn (1.2 o superior),
-   pandas, NumPy, SciPy y Matplotlib. No se instala nada desde el notebook.
+1. Preparar un entorno con Python 3.10 o superior e instalar las dependencias
+   (scikit-learn 1.2 o superior). No se instala nada desde el notebook.
 
    ```bash
-   pip install scikit-learn pandas numpy scipy matplotlib jupyter
+   pip install matplotlib numpy pandas scipy scikit-learn joblib jupyter
    ```
 
 2. Verificar que `train.csv` y `validation.csv` estén en
