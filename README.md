@@ -12,11 +12,6 @@ informe el equipo debe poder responder, con evidencia propia y en lenguaje claro
 - qué no hace o en qué casos falla
 - qué sugerirían como próximo paso si el trabajo continuara.
 
-**Pregunta central:** ¿Qué decisiones de preparación de datos y de modelado
-explican el mejor desempeño alcanzado, y con qué evidencia las sostienen?
-
-Modelo final: Stacking de ElasticNet, SVR y Gradient Boosting (scikit-learn).
-
 ## Estructura del repositorio
 
 - `src/Ames_Housing_Modeling_v3.ipynb`: notebook final (preparación, modelado,
